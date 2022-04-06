@@ -28,11 +28,11 @@
 
   * 입력: 마스크 착용 사진, 미착용 사진, 혹은 이상하게 착용한 사진
 
-    예시 > <img src="https://s3-ap-northeast-2.amazonaws.com/aistages-public-junyeop/app/Users/00000025/files/835262ea-d9fc-4c87-a927-02b2a6dd5fb3..png" alt="img" style="zoom:50%;" />
+    예시 > <img src="README.assets/835262ea-d9fc-4c87-a927-02b2a6dd5fb3..png" alt="img" style="zoom:50%;" />
 
   * 출력: 총 18개의 클래스 (0~17)
 
-    <img src="https://s3-ap-northeast-2.amazonaws.com/aistages-public-junyeop/app/Users/00000025/files/56bd7d05-4eb8-4e3e-884d-18bd74dc4864..png" alt="img" style="zoom: 33%;" />
+    <img src="README.assets/56bd7d05-4eb8-4e3e-884d-18bd74dc4864..png" alt="img" style="zoom: 33%;" />
 
 * 기대 효과
 
